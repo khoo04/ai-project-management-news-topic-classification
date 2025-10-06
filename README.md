@@ -1,2 +1,1 @@
-# ai-project-management
-Example of repository 
+# Hello Github
