@@ -1,3 +1,5 @@
+# Reflection Week 02 - KHOO ZHEN XIAN
+
 ## 1. What did I contribute this week?
 
 This week, I contributed by helping to define the **problem statement**, **objectives**, **proposed approach**, and **evaluation metrics** for the **News Topic Classification** project. I also participated in team discussions to outline the initial project structure and clarify the scope of our AI solution.
