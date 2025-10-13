@@ -1,11 +1,11 @@
-# Notebooks Directory
+# Documentation Directory
 
-This folder contains Jupyter notebooks used for data exploration, experimentation, and analysis.
+This folder includes all documentation related to the project.
 
 ## Purpose
-- Test and visualize algorithms
-- Document step-by-step model development
+- Describe the project concept, architecture, and workflow.
+- Provide user or developer guides.
+- Contain API documentation or system design details.
 
 ## Notes
-- Each notebook should be clearly named (e.g., `01_data_exploration.ipynb`, `02_model_training.ipynb`)
-- Keep notebooks lightweight and well-documented for reproducibility.
+- Keep documentation updated as the project evolves.
