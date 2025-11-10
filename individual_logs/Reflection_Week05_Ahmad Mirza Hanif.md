@@ -1,4 +1,4 @@
-# Reflection Week 05 - KHOO ZHEN XIAN
+# Reflection Week 05 - AHMAD MIRZA SHAHMI BIN ABDUL HANIF
 
 ## 1. Which project phase has the highest cost and why?
 The phase the has the highest cost is building the prototype interface. This phase requires a lot of attention due to its nature of "Fail to plan, plan to fail", or
