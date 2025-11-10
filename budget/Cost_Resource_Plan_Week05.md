@@ -53,6 +53,20 @@
 | **Communication**          | Online meetings, file sharing (Teams, GitHub, etc.)                                   |             **0** |
 | **Total Estimated Budget** |                                                                                       |         **2,925** |
 
+## Integration Notes
+After adding the Estimated Cost (RM) column to the schedule and reviewing all project phases:
 
+The Model Development phase (Feature Extraction, Model Training, and Model Evaluation) shows a high cost impact, totaling around RM 950, mainly due to computational time (GPU) and specialized expertise required.
+
+The Documentation & Presentation phase also contributes significantly (~RM 650) because it involves multiple team members working collaboratively to finalize the report and slides.
+
+The cost distribution aligns closely with milestones:
+- Early planning (Oct) → low cost (concept, requirements)
+- Mid-project (Nov–Dec) → peak cost (model training, evaluation)
+- End phase (Jan) → moderate cost (testing, final report)
+
+Resource allocation is balanced across members, but critical tasks like model training and testing must be carefully scheduled to avoid GPU overuse or duplicated effort.
+
+Efficient timing of high-cost resources (e.g., GPU usage only during active training) helps control overall spending.
 
  
