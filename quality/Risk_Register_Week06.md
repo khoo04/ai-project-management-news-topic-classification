@@ -17,15 +17,15 @@
 
 1. **R2 – Class imbalance causes poor model accuracy**
    - **Mitigation:** Apply oversampling, undersampling, or synthetic data (SMOTE). Ensure each topic category has adequate representation.
-   - **Owner:** Khoo
+   - **Owner:** Aqem & Fariz
    - **Deadline:** 3 Dec 25
 
 2. **R1 – Dataset labels may be incorrect or inconsistent**
    - **Mitigation:** Perform manual review of samples, remove suspicious entries, apply rule-based validation to detect mislabeled items.
-   - **Owner:** Aqem
+   - **Owner:** Khoo & Mirza
    - **Deadline:** 8 Nov 25
 
 3. **R3 – Training takes too long due to large dataset**
    - **Mitigation:** Use optimized preprocessing, reduce vocabulary size, use TF-IDF or distilled models to speed up training.
-   - **Owner:** Fariz
+   - **Owner:** Khoo & Fariz
    - **Deadline:** 1 Dec 25
