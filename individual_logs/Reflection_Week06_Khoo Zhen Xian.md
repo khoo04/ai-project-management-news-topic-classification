@@ -16,6 +16,11 @@ If the dataset contains noisy articles, duplicated content, misinformation, or u
 - Identifying risks early, allowing the team to implement mitigation strategies before issues escalate.
 
 ## 4. Add screenshots of MS Teams announcements in Part A.
-
+<img width="952" height="730" alt="image" src="https://github.com/user-attachments/assets/e592c729-271b-468c-9c03-74279899704a" />
 
 ## 5.	Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
+![Screenshot 1](https://github.com/user-attachments/assets/c4267587-c493-4b1a-8941-9dd85f9116bd)
+![Screenshot 2](https://github.com/user-attachments/assets/b6546d4d-2697-4609-b49e-6f37a8575912)
+![Screenshot 3](https://github.com/user-attachments/assets/7658a660-29da-422e-8128-99582ab6eb67)
+
+
