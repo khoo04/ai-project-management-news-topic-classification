@@ -13,4 +13,7 @@ Quality management ensures the dataset, model, and UI meet clear standards. This
 <img width="1136" height="661" alt="image" src="https://github.com/user-attachments/assets/5fda88e5-3126-4f05-a5a6-a348c174f4e8" />
 
 ## 5. Updated Schedule Screenshots
-*(Insert screenshots here)*
+<img width="1494" height="962" alt="Screenshot 2025-11-24 100942" src="https://github.com/user-attachments/assets/ad94359b-2bab-4a02-8155-1aa6891e70fa" />
+<img width="1498" height="969" alt="Screenshot 2025-11-24 100955" src="https://github.com/user-attachments/assets/70b457c6-9e82-41f4-9b35-f271d6fbd22b" />
+<img width="1492" height="933" alt="Screenshot 2025-11-24 100926" src="https://github.com/user-attachments/assets/ff319097-5d27-4d0e-a782-105ae6d25441" />
+
