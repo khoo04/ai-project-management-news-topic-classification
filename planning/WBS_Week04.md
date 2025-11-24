@@ -37,3 +37,8 @@
 - System Integration Complete – 11 Jan 2026
 - Testing & Refinement Complete – 19 Jan 2026
 - Final Presentation Ready – 19 Jan 2026
+
+## Integration Notes
+- Quality checks added after Task 3.2 (Data Cleaning)
+- High-risk tasks identified in Phase 2 and 3
+- Schedule updated on Planner to reflect additional review cycles
