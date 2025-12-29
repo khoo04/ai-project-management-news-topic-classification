@@ -3,6 +3,7 @@
 | Stakeholder            | Role                                   | Key Expectations |
 |------------------------|----------------------------------------|------------------|
 | Project Sponsor        | Provides approval and overall direction| Project meets objectives, delivered on time |
+| Project Supervisor | Guides and evaluates the project | Project meets requirements, clear documentation, on-time delivery |
 | Project Team Members   | Develop and implement the system        | Clear tasks, smooth collaboration |
 | End Users              | Use the news classification system     | Accurate and easy-to-use classification |
 | Dataset Provider       | Supplies news data                        | Proper data usage and acknowledgment |
@@ -14,13 +15,13 @@ The stakeholders are classified into the four quadrants of the Power-Interest Ma
 
 | Power \ Interest | Low Interest | High Interest |
 | :--- | :--- | :--- |
-| **High Power** | **High Power / Low Interest**<br>*(Keep Satisfied)*<br>• N/A (None currently identified) | **High Power / High Interest**<br>*(Manage Closely)*<br>• Project Sponsor |
+| **High Power** | **High Power / Low Interest**<br>*(Keep Satisfied)*<br>• N/A (None currently identified) | **High Power / High Interest**<br>*(Manage Closely)*<br>• Project Sponsor & Project Supervisor |
 | **Low Power** | **Low Power / Low Interest**<br>*(Monitor)*<br>• Dataset Provider | **Low Power / High Interest**<br>*(Keep Informed)*<br>• Project Team Members<br>• End Users |
 
 ## Stakeholder Engagement Strategy
 
 ### 1. High Power / High Interest (Manage Closely)
-* **Stakeholders:** Project Sponsor
+* **Stakeholders:** Project Sponsor & Project Supervisor
 * **Strategy:** This is the key decision-maker. We must fully engage them and make the greatest effort to satisfy their requirements.
 * **Action:** Schedule regular progress updates and seek immediate feedback on approval of key milestones.
 
