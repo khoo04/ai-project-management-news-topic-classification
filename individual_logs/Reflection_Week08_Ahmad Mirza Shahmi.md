@@ -1,4 +1,4 @@
-# Lessons Learned – Week 08
+# Lessons Learned – Week 08 AHMAD MIRZA SHAHMI
 
 ### 1. What planning activity helped most in monitoring progress?
 The Work Breakdown Structure, rather than serving as a passive checklist, ruthlessly exposed the fragility of our timeline by stripping away the comforting delusion that we had infinite time to refine the code.
