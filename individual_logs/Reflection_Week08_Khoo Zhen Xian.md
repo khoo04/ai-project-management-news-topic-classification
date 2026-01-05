@@ -1,4 +1,4 @@
-# Lessons Learned – Week 08
+# Reflection Week 08 - KHOO ZHEN XIAN
 
 ### 1. What planning activity helped most in monitoring progress?
 I think defining clear milestones and task-level completion percentages helped us to track the project progress effectively and identify delays early.
